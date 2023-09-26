@@ -5,4 +5,6 @@
 <!-- link: -->
 ## PDF Files
 
-- [Distributed System Slides](./DistributedSystem/Slides/2023-08-30.pdf)
+- [Distributed System Slides](./DistributedSystem/Slides/2023-08-30.pdf?raw=true)
+
+<!-- href -->
